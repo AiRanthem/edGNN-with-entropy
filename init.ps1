@@ -1,0 +1,1 @@
+$env:PYTHONPATH="C:\Users\airan\Desktop\graph\edGNN"

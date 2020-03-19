@@ -1,3 +1,6 @@
+#my
+preprocessed_graphs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

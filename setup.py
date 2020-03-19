@@ -129,7 +129,7 @@ setup(
     name='edGNN',
     version='0.0.1',
     description='Propose a Graph Neural Network architecture for node- and edge-labeled graphs.',
-    long_description=open('README.md').read(),
+    long_description=open('README_origin.md').read(),
     url='UNK',
     author='anonymous',
     author_email='anonymous',
